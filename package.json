@@ -1,0 +1,23 @@
+{
+  "name": "trial-review",
+  "version": "1.0.0",
+  "description": "Ill be reviewing code from the admissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelasong/trial-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelasong/trial-review/issues"
+  },
+  "homepage": "https://github.com/michaelasong/trial-review#readme",
+  "devDependencies": {
+    "hint": "^7.1.0"
+  }
+}
